@@ -1,4 +1,4 @@
-Analizando la Web de Medium:
+Analizando la Web de GitHub:
 
 ***Navegación Global:***
 
