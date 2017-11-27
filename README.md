@@ -10,60 +10,43 @@ Identificar los elementos de navegación en los siguientes sites:
 
 ## Resolución 
 
-Analizando la Web de Breather:
-
+Analizando la web de Medium:
 
 ***Navegación Global***
 
-![Sin titulo](breather/assets/imgs/menu1.png)
+![Sin titulo](medium/assets/imgs/global.png)
+
+![Sin titulo](medium/assets/imgs/global2.png)
 
 
 ***Navegación Local***
 
-![Sin titulo](breather/assets/imgs/menu2.png)
-
-![Sin titulo](breather/assets/imgs/local4.png)
-
-![Sin titulo](breather/assets/imgs/local6.png)
-
-![Sin titulo](breather/assets/imgs/local7.png)
+![Sin titulo](medium/assets/imgs/local.png)
 
 
 ***Navegación Facetada***
 
-![Sin titulo](breather/assets/imgs/local3.png)
+![Sin titulo](medium/assets/imgs/facetada.png)
 
-![Sin titulo](breather/assets/imgs/facetada1.png)
+![Sin titulo](medium/assets/imgs/facetada2.png)
 
-![Sin titulo](breather/assets/imgs/facetada2.png)
-
-![Sin titulo](breather/assets/imgs/facetada3.png)
-
-![Sin titulo](breather/assets/imgs/facetada4.png)
+![Sin titulo](medium/assets/imgs/facetada3.png)
 
 
-***Navegación filtrada***
+***Navegación Contextual***
 
-![Sin titulo](breather/assets/imgs/filtrada2.png)
+![Sin titulo](medium/assets/imgs/contextual1.png)
 
-![Sin titulo](breather/assets/imgs/filtrada5.png)
-
-![Sin titulo](breather/assets/imgs/filtrada3.png)
-
-![Sin titulo](breather/assets/imgs/filtrada5.png)
-
-![Sin titulo](breather/assets/imgs/filtrada4.png)
-
-![Sin titulo](breather/assets/imgs/filtrada6.png)
+![Sin titulo](medium/assets/imgs/contextual2.png)
 
 
-***Navegación inline***
+***Navegación Inline***
 
-![Sin titulo](breather/assets/imgs/inline1.png)
-
-![Sin titulo](breather/assets/imgs/inline2.png)
+![Sin titulo](medium/assets/imgs/inline.png)
 
 
-***Navegación suplementaria***
+***Navegación Suplementaria***
 
-![Sin titulo](breather/assets/imgs/suplementaria.png)
+![Sin titulo](medium/assets/imgs/suplementaria.png)
+
+![Sin titulo](medium/assets/imgs/suplementaria1.png)
