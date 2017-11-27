@@ -151,21 +151,14 @@ Analizando la Web de Breather:
 ![Sin titulo](breather/assets/imgs/menu2.png)
 
 
-![Sin titulo](breather/assets/imgs/local4.png)
-
-
-![Sin titulo](breather/assets/imgs/local6.png)
-
-
-![Sin titulo](breather/assets/imgs/local7.png)
-
+![Sin titulo](breather/assets/imgs/local1.png)
 
 
 
 
 ***Navegación Facetada***
 
-![Sin titulo](breather/assets/imgs/local3.png)
+![Sin titulo](breather/assets/imgs/face1.png)
 
 
 ![Sin titulo](breather/assets/imgs/facetada1.png)
